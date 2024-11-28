@@ -9,7 +9,7 @@
 
         /// <summary>
         /// Clean up any resources being used.
-        /// </summary>
+        /// </
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
@@ -181,7 +181,7 @@
             this.LblFechaNacim.Location = new System.Drawing.Point(226, 69);
             this.LblFechaNacim.Name = "LblFechaNacim";
             this.LblFechaNacim.Size = new System.Drawing.Size(107, 13);
-            this.LblFechaNacim.TabIndex = 30;
+            this.LblFechaNacim.TabIndex = 30;//esta bien el codigo
             this.LblFechaNacim.Text = "Fecha nacimiento";
             // 
             // LblTelefono
